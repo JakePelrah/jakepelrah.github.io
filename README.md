@@ -505,6 +505,10 @@ void main() {
 
 
 
+    window.addEventListener('resize', ()=>{
+        canvas.width = dimensions.width = window.innerWidth
+        canvas.height = dimensions.height = window.innerHeight
+    })
 
     }
 

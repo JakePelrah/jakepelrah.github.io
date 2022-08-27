@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang='en'>
 <head>
     <style>body{ margin:0; background:black; }</style>
